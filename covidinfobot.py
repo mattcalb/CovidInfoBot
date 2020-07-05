@@ -16,6 +16,8 @@ async def on_ready():
 @client.command()
 async def info(ctx, *, countryname):
 
+    countryname = countryname.lower()
+
     if countryname == "help":
         embed=discord.Embed(title="Help", description="type !info name of the country", color=0xff0000)
         await ctx.send(embed=embed)
