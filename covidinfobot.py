@@ -70,4 +70,3 @@ async def info(ctx, *, countryname):
    
 
 client.run("INSERT BOT TOKEN HERE") # run the bot
-
