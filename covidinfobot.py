@@ -44,7 +44,7 @@ async def info(ctx, *, countryname):
 
         # if the name of the country is invalid
         invalid = soup.find(text="Not Found")
-        if invalid == "Not Found" and countryname != "help":
+        if invalid == "Not Found":
             embed=discord.Embed(title="Invalid Country!", description="type a correct country's name!", color=0xff0000)
             await ctx.send(embed=embed)
 
