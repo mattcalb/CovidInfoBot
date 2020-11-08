@@ -11,8 +11,5 @@ It is my CS50x final project, learn more about this course on: [https://cs50.har
 2. Move to the project folder: `cd covidinfobot`
 3. Install all libraries: `pip`
 # How to run the project?
-1. Add the bot to your discord server: [https://discord.com/api/oauth2/authorize?client_id=728667400966373477&permissions=0&scope=bot](https://discord.com/api/oauth2/authorize?client_id=728667400966373477&permissions=0&scope=bot)
-3. Move to the project folder: `cd covidinfobot`
-4. Run: `python covidinfobot.py`
-5. Type `!info <name_of_your_country>` to see the covid-19 info about your country.
+Add the bot to your discord server: [https://discord.com/api/oauth2/authorize?client_id=728667400966373477&permissions=0&scope=bot](https://discord.com/api/oauth2/authorize?client_id=728667400966373477&permissions=0&scope=bot)
  
