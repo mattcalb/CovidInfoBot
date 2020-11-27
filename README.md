@@ -10,6 +10,7 @@ It is my CS50x final project, learn more about this course on: [https://cs50.har
 1. Clone this repository: `git clone https://github.com/mattcalb/CovidInfoBot.git`
 2. Move to the project folder: `cd covidinfobot`
 3. Install all libraries: `pip`
+4. Run: `python covidinfobot.py`
 # How to run the project?
 Add the bot to your discord server: [https://discord.com/api/oauth2/authorize?client_id=728667400966373477&permissions=0&scope=bot](https://discord.com/api/oauth2/authorize?client_id=728667400966373477&permissions=0&scope=bot)
  
