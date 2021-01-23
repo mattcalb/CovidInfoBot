@@ -1,5 +1,5 @@
 # What is it?
-An informative discord bot about Covid-19. The bot search for a specific country and give the covid-19 info about this country. It get all the data from [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
+An informative discord bot about Covid-19. The bot search for a specific country and give the covid-19 info about this country. It gets all the data from [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
 
 It is my CS50x final project, learn more about this course on: [https://cs50.harvard.edu/x/2020/](https://cs50.harvard.edu/x/2020/)
 # What technologies were used?
